@@ -1,2 +1,2 @@
 # LeetCodeNote
-刷题笔记（java）java
+刷题笔记（java）
